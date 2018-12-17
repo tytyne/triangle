@@ -9,6 +9,7 @@ Based on the functionality of the application,the key points are:
 * Most importantly,if the sum of any two sides of the triangle is equal to or less than the third remaining side,then a triangle CANNOT be formed using those values.
 ## Setup/Installation Requirements
 Install triangle-tracker-js by cloning this repository:
+https://github.com/tytyne/triangle
 
 ## BDD
 * If all the sides are equal is an equilateral triangle
@@ -20,7 +21,7 @@ Install triangle-tracker-js by cloning this repository:
 - JavaScript
 - CSS
 ## Support and contact details
-If you have some issues running this application,feel free to contact me dusaflora2@gmail.com
+If you have some issues running this application,feel free to contact me dusaflora2@gmail.comhttps://github.com/tytyne/triangle
 ### License
 MIT license
 Copyright (c) 2018 **Dusabeyezu Florentine**

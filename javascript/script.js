@@ -26,6 +26,7 @@ function check() {
         firstvalue === thirdvalue ||
         secondvalue === thirdvalue) {
         text = "Isosceles Triangle.";
+
     }
     //Isoscele Triangle
     else if (firstvalue !== secondvalue &&
